@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3da1fd08-f704-4727-ac62-d0cae53eb75d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/.idea/business.iml" beforeDir="false" afterPath="$PROJECT_DIR$/business/.idea/business.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/business/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.idea/client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/client/.idea/client.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/client/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +41,7 @@
       <workItem from="1657984224629" duration="321000" />
       <workItem from="1657984558336" duration="105000" />
       <workItem from="1658125417900" duration="384000" />
+      <workItem from="1658203240954" duration="23000" />
     </task>
     <servers />
   </component>
