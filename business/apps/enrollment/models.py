@@ -32,3 +32,7 @@ class Enrollment(models.Model):
     enrollment_number = models.IntegerField()
     finished = models.BooleanField()
 
+    class Meta:
+        db_table = 'enrollment'
+    class Meta:
+        db_table = 'enrollment'

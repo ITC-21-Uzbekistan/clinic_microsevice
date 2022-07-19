@@ -17,3 +17,11 @@ class Result(models.Model):
     files = models.ForeignKey(Result_Files,
                               on_delete=models.CASCADE
                               )
+
+    class Meta:
+        db_table = 'result'
+
+
+    class Meta:
+        db_table = 'result'
+

@@ -7,10 +7,8 @@ from rest_framework.permissions import IsAuthenticatedOrReadOnly
 class ListCreateEnrollmentAPIView(ListCreateAPIView):
     queryset = Enrollment.objects.all()
     serializer_class = EnrollmentSerializers
-    permission_classes = (IsAuthenticatedOrReadOnly, )
 
 
 class RetrieveUpdateDestroyEnrollmentAPIView(RetrieveUpdateDestroyAPIView):
     queryset = Enrollment.objects.all()
     serializer_class = EnrollmentSerializers
-    permission_classes = (IsAuthenticatedOrReadOnly, )
