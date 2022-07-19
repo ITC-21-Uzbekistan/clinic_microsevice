@@ -1,34 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3da1fd08-f704-4727-ac62-d0cae53eb75d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/business/apps/room/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/apps/room/api/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/apps/room/serializers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/apps/room/serializers/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/apps/schedule/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/apps/schedule/api/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/apps/schedule/serializers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/business/apps/schedule/serializers/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/apps/direction/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/business/apps/direction/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/apps/room/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/business/apps/room/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/business/apps/schedule/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/business/apps/schedule/models.py" afterDir="false" />
-    </list>
+    <list default="true" id="3da1fd08-f704-4727-ac62-d0cae53eb75d" name="Changes" comment="ok" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,16 +18,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/2022Summer/clinic_microservices",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/2022Summer/clinic_microservices&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,8 +39,16 @@
       <workItem from="1657984224629" duration="321000" />
       <workItem from="1657984558336" duration="105000" />
       <workItem from="1658125417900" duration="384000" />
-      <workItem from="1658203240954" duration="23000" />
+      <workItem from="1658203240954" duration="62000" />
     </task>
+    <task id="LOCAL-00001" summary="ok">
+      <created>1658203279493</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658203279493</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,5 +64,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
   </component>
 </project>
