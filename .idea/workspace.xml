@@ -2,12 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3da1fd08-f704-4727-ac62-d0cae53eb75d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/apps/enrollment/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/apps/enrollment/api/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/apps/enrollment/serializers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/apps/enrollment/serializers/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/apps/result/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/apps/result/api/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/apps/result/serializers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/business/apps/result/serializers/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/clinic_microservices.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/clinic_microservices.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/apps/enrollment/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/business/apps/enrollment/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/apps/enrollment/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business/apps/result/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/business/apps/result/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,15 +40,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/2022Summer/clinic_microservices&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django/clinic" />
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,6 +58,7 @@
       <workItem from="1657984558336" duration="105000" />
       <workItem from="1658125417900" duration="384000" />
       <workItem from="1658203240954" duration="23000" />
+      <workItem from="1658220712465" duration="32000" />
     </task>
     <servers />
   </component>
