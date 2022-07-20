@@ -1,4 +1,4 @@
-from business.apps.result.models import Result, Result_Files
+from apps.result.models import Result, Result_Files
 from rest_framework import serializers
 
 

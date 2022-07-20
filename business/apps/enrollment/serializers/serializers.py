@@ -1,4 +1,4 @@
-from business.apps.enrollment.models import Enrollment
+from apps.enrollment.models import Enrollment
 from rest_framework import serializers
 
 
