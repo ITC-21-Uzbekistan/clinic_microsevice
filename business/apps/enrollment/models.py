@@ -1,8 +1,8 @@
 import uuid
 
 from django.db import models
-from business.apps.service.models import Service
-from business.auth_user.models import User
+from apps.service.models import Service
+from auth_user.models import User
 
 
 class Enrollment(models.Model):
@@ -20,19 +20,31 @@ class Enrollment(models.Model):
         blank=True
     )
 
-    enrollment_date = models.DateTimeField()
+    enrollment_date = models.DateTimeField(
+        auto_now_add=True,
+        null=True,
+        blank=True
+    )
     employee = models.ForeignKey(
         User,
-        on_delete=models.CASCADE
+        on_delete=models.CASCADE,
+        null=True,
+        blank=True
     )
     service = models.ForeignKey(
         Service,
-        on_delete=models.CASCADE
+        on_delete=models.CASCADE,
+        null=True,
+        blank=True
+        )
+    enrollment_number = models.IntegerField(
+        null=True,
+        blank=True
     )
-    enrollment_number = models.IntegerField()
-    finished = models.BooleanField()
+    finished = models.BooleanField(
+        null=True,
+        blank=True
+    )
 
-    class Meta:
-        db_table = 'enrollment'
     class Meta:
         db_table = 'enrollment'
